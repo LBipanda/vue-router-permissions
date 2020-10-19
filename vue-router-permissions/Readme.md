@@ -18,3 +18,9 @@
 4、路由结构 => 静态路由 => 树形结构化数据
 5、树形结构化的数据 => 菜单组件
 
+# 使用
+第一步：cd manager  =>  npm run serve
+第二步：cd server  =>  npm run dev
+
+
+
